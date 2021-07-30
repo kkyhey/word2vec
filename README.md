@@ -20,4 +20,4 @@ BowとWord2vecを用いたCBowとSkip-gramの実装
 
 # 評価  
 - CBoWよりもskip-gramで生成された分散表現の方が単語の概念的により的確なものである場合が多い。ただし学習コストはskip-gramの方が高くなる  
-![評価](C:\Users\KITM7438\Word2vec\スクリーンショット 2021-07-30 172205.png)  
+![評価](img/e.png)  
